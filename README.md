@@ -1,1 +1,1 @@
-# daily-lead-outreach-tracking
+PropDoc daily activity report — every weekday ~8 AM ET, reports the previous day's calls, texts (Quo) and emails (propdochomes@gmail.com) by team member. Runs as a Grok Bot routine; RECIPE.md is the query recipe, team.json maps Quo user IDs to names.

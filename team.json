@@ -1,0 +1,49 @@
+{
+  "workspace": "PropDoc",
+  "timezone": "America/New_York",
+  "updatedAt": "2026-11-12",
+  "users": [
+    {
+      "id": "USLxOHKdvR",
+      "name": "Antonio Cucciniello",
+      "shortName": "Antonio",
+      "email": "antonio@investarters.com",
+      "role": "owner"
+    },
+    {
+      "id": "USSVprv1rS",
+      "name": "Kevin Shippee",
+      "shortName": "Kevin",
+      "email": "kevshippee@gmail.com",
+      "role": "admin"
+    },
+    {
+      "id": "USrINbBvIg",
+      "name": "Gabriel R",
+      "shortName": "Gabe",
+      "email": "greyes4627@gmail.com",
+      "role": "member"
+    },
+    {
+      "id": "USMiqzMpNA",
+      "name": "Ruby Anna Cepria",
+      "shortName": "Ruby",
+      "email": "ruby.realestateva@gmail.com",
+      "role": "member"
+    }
+  ],
+  "inboxes": [
+    {
+      "id": "PNlh3M0zWH",
+      "number": "+14132885606",
+      "name": "Primary",
+      "userIds": ["USLxOHKdvR", "USMiqzMpNA", "USrINbBvIg", "USSVprv1rS"]
+    }
+  ],
+  "gmail": {
+    "namespace": "user-Gmail--propdoc",
+    "address": "propdochomes@gmail.com",
+    "displayNameOnSentMail": "Prop Doc",
+    "sendAsAliases": []
+  }
+}
